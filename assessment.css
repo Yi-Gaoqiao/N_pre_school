@@ -1,0 +1,22 @@
+body {
+    background-color: #04A6EB;
+    color: seashell;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input {
+    height: 25px;
+}
+
+button {
+    color: seashell;
+    padding: 5px 20px;
+    background-color: royalblue;
+    border-style: none;
+}
+
+p {
+    color: seashell;
+}
